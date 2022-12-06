@@ -18,6 +18,12 @@ yarn
   yarn run start:dev
   ```
 
+- Step 4:- Star the queue worker to listen to queue events
+
+```
+node cli queue:work
+```
+
   - For production server run
 
   ```
